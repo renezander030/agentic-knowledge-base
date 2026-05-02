@@ -556,7 +556,6 @@ export async function find(query, options = {}, deps = {}) {
       name: 'notes_find',
       run: async () => {
         // Token-aware match restricted to Permanent Notes project.
-        const notes = await import('./notes.js');
         const PERM_NOTES = '68468d7911721211e181891a';
         const candidates = corpus.filter((t) => t.fullProjectId === PERM_NOTES);
         const q = (query || '').toLowerCase();
