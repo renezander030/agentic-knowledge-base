@@ -1,0 +1,5 @@
+{"id":"q01","user_intent":"find ffmpeg notes","question":"ffmpeg commands","gold_task_id":"6890b500ebcdba0000000414","gold_project_id":"68468d7911721211e181891a","tags":["title-noun","coding","permanent-notes","unique"]}
+{"id":"q02","user_intent":"set up speech-to-text on macOS","question":"STT macOS dictation","gold_task_id":"69ac6d01f771110accddf285","gold_project_id":"68468d7911721211e181891a","tags":["abbreviation","coding","permanent-notes","unique"]}
+{"id":"q03","user_intent":"find note on parallel coding agents","question":"parallel agents coding","gold_task_id":"689b2f5eebcdba0000000d28","gold_project_id":"68468d7911721211e181891a","tags":["multi-noun","coding","permanent-notes","unique"]}
+{"id":"q04","user_intent":"find OpenRouter API key","question":"openrouter api key","gold_task_id":"687c7b0febcdba0000001d29","gold_project_id":"68468d7911721211e181891a","tags":["title-match","coding","permanent-notes","unique"]}
+{"id":"q05","user_intent":"find web search API setup","question":"web search api","gold_task_id":"687ccd8debcdba000000291b","gold_project_id":"68468d7911721211e181891a","tags":["paraphrase","coding","permanent-notes","unique"]}
